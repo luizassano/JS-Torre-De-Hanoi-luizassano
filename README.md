@@ -4,5 +4,5 @@
 
 ### 🇺🇸 Game developed in Javascript completely through the DOM (Document Object Model) and adapted for mobile. In this game the objective is to move the tower to the opposite side. As a rule, it is not possible for a larger piece to be above a smaller piece.
 
-### webSite Link ~> https://reimagined-parakeet-72322c66.pages.github.io/
+### webSite Link ~> https://luizassano.github.io/JS-Torre-De-Hanoi-luizassano/
 
